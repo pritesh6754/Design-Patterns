@@ -14,6 +14,8 @@ namespace DemoDesignPattern
 
         public static Singleton GetInstance()
         {
+
+            // Please fill this values
             if (instance == null)
             {
 
